@@ -2,7 +2,7 @@ package com.example.kalkulator23;
 
 public class Calculator {
     public int saberi(int a, int b){
-        return a+b;
+        return a+b+a;
     }
 
     public static void main(String[] args) {
